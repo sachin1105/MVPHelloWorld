@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitOperation</string>
+    <string name="buttonName">Display Message</string>
 </resources>
